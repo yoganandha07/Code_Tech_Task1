@@ -23,7 +23,7 @@ medv: Median value of owner-occupied homes (in $1000s) - target variable
 
 Requirements
 
-Python 3.x
+Python 3
 
    Libraries:
    
