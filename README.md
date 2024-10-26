@@ -36,3 +36,14 @@ Python 3.x
       .matplotlib
       
       .seaborn
+
+Output 
+
+![image](https://github.com/user-attachments/assets/dec2dcd1-8c60-48c0-8b2f-c8ef0b5cf695)
+
+
+Results
+The trained Linear Regression model achieved the following results on the test set:
+
+Mean Squared Error (MSE): 24.29
+
