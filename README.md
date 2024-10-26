@@ -22,10 +22,17 @@ medv: Median value of owner-occupied homes (in $1000s) - target variable
 
 
 Requirements
+
 Python 3.x
-Libraries:
-pandas
-scikit-learn
-numpy
-matplotlib
-seaborn
+
+   Libraries:
+   
+      .pandas
+      
+      .scikit-learn
+      
+      .numpy
+      
+      .matplotlib
+      
+      .seaborn
