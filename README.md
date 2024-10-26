@@ -19,6 +19,8 @@ ptratio: Pupil-teacher ratio by town
 b: Proportion of Black residents by town
 lstat: Percentage of lower-status population
 medv: Median value of owner-occupied homes (in $1000s) - target variable
+
+
 Requirements
 Python 3.x
 Libraries:
